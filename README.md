@@ -12,3 +12,7 @@
 # SQL Operations Studio Project News
 
 SQL Operations Studio community contributions is opened for 10 languages: French, Italian, German, Spanish, Simplified Chinese, Traditional Chinese, Japanese, Korean, Russian, Brazilian Portuguese. We can also extend the languages if there are strong demand from the community
+
+
+
+## [Back to Wiki Homepage](https://github.com/gcrfelix/Localization/wiki)
